@@ -7,7 +7,6 @@
     "dev": "webpack serve",
     "build": "webpack"
   },
-  "author": "elvisgmz_",
   "license": "MIT",
   "dependencies": {
     "react": "^17.0.1",
